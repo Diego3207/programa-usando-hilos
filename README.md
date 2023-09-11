@@ -1,4 +1,4 @@
-# Programa Capaz de Restaurar Estado de Ejecucion
+# Uso de Hilos
 Materia: Computación Tolerante a Fallas<br>
 Maestro: MICHEL EMANUEL LOPEZ FRANCO<br>
 Nombre: Diego Alonso Mercado Brizuela<br>
