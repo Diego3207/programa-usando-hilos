@@ -11,7 +11,7 @@ Sección: D06<br>
 Un hilo es una unidad básica de utilización de CPU, la cual contiene un id de hilo, su propio program counter, un conjunto de registros, y una pila; que se representa a nivel del sistema operativo con una estructura llamada TCB (thread control block).
 Los hilos comparten con otros hilos que pertenecen al mismo proceso la sección de código, la sección de datos, entre otras cosas. Si un proceso tiene múltiples hilos, puede realizar más de una tarea a la vez (esto es real cuando se posee más de un CPU).
 Un demonio, a diferencia de los hilos tradicionales, no forma parte de la esencia del programa, sino de la máquina de Java. Los demonios son usados generalmente para prestar servicios en un segundo plano a todos los programas que puedan necesitar el tipo de servicio proporcionado.
-## Pruebas en Android Studio
+## Pruebas de Aplicación
 En esta práctica se utilizaron hilos para asegurar la tolerancia a fallas. Un hilo principal, el cual se encarga de procesar tareas obtenidas desde una cola de tareas:
 <br>
 <img
